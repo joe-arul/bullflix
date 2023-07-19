@@ -1,2 +1,2 @@
-# movielens
-Template using Flask for the movielens website
+# bullflix
+Template using Flask for the bullflix webapp
